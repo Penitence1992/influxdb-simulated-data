@@ -1,0 +1,3 @@
+influx:
+  host: http://influxdb.renjie.org
+  database: iot
